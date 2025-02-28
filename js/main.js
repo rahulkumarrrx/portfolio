@@ -41,13 +41,13 @@ AOS.init({
     });
   });
 
-  $('.home-slider').owlCarousel({
-    items: 1,
-    loop: true,
-    autoplay: true,
-    touchDrag: true,
-    mouseDrag: true
-});
+
+
+
+
+
+  
+
 
   
 
