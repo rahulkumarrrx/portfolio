@@ -13948,3 +13948,17 @@ textarea.form-control {
 
 
 
+html, body {
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: auto;
+}
+.hero, .home-slider {
+    overflow: visible !important;
+}
+
+
+.js-fullheight {
+    height: auto !important;
+    min-height: 100vh;
+}
